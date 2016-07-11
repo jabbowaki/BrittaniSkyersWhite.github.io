@@ -19,3 +19,6 @@ a:visited {
 .footer {
 	text-align: center;
 }
+#dog-table {
+	background-image: url(background-image.jpg);
+}
