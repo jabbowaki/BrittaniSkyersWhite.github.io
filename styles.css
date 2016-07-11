@@ -1,3 +1,17 @@
 body {
-	background-color: blue;
+	font-family: "Trebuchet MS";
+}
+#cute-dog-picture {
+	border:solid 5px;
+	border-color: pink;
+	padding: 10px;
+	margin: 20px;
+}
+.pink {
+	border: solid 5px;
+	border-color: pink;
+}
+/* visited link*/ 
+a:visited {
+	color: blueviolet;
 }
