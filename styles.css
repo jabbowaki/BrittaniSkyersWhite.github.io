@@ -15,3 +15,7 @@ body {
 a:visited {
 	color: blueviolet;
 }
+
+.footer {
+	text-align: center;
+}
